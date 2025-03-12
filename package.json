@@ -7,7 +7,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.17.1",  //  A minimal and flexible Node.js web application framework
-    "body-parser": "^1.19.0" //  Node.js body parsing middleware.
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0"
   }
 }
